@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">СпецПромБурение</string>
+    <string name="logo">logo</string>
+    <string name="hello">Hello world!</string>
+    <string name="enter">Войти</string>
+    <string name="title_activity_main_list">MainListActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_sign_up">SignupActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_note_details">NoteDetailsActivity</string>
+
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="authentication">Авторизация</string>
+    <string name="registration">Регистрация</string>
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="minimum_password">Пароль слишком короткий, введите минимум 6 символов!</string>
+    <string name="auth_failed">Регистрация провалена, проверьте Ваш Email или пароль и попробуйте еще раз.</string>
+    <string name="add_email">Введите адрес электронной почты</string>
+    <string name="add_password">Введите пароль</string>
+    <string name="change_email">Изменить адрес электронной почты</string>
+    <string name="change_password">Изменить пароль</string>
+    <string name="send_password_reset_email">Отправить электронное письмо для сброса пароля</string>
+    <string name="remove_user">Удалить пользователя</string>
+    <string name="new_pass">Новый пароль</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_name">Полное имя</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Еще не зарегистрированы? Сделайте это прямо сейчас!</string>
+    <string name="btn_link_to_login">Я уже зарегистрирован(-а). Хочу войти!</string>
+    <string name="btn_forgot_password">Забыли свой пароль?</string>
+    <string name="btn_reset_password">Сброс пароля</string>
+    <string name="btn_back">Назад</string>
+    <string name="hint_new_email">Новый адрес электронной почты</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">Просто введите электронную почту, с помощью которой Вы регистрировались. После мы отправим Вам инструкции по сбросу пароля на указанную электронную почту.</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="note_text">Введите текст заметки</string>
+    <string name="note_details_title">Заметка</string>
+    <string name="save">Сохранить</string>
+    <string name="completed">Выполнение</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btn_maps_text">Добавить отметку на карте</string>
+    <string name="note_map_text">Введите адрес</string>
+
+</resources>
+
